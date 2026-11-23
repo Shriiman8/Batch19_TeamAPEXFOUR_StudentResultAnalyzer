@@ -11,7 +11,7 @@
 | **Batch** | `Batch - 19` |
 | **Team Number / Name** | `APEX FOUR` |
 | **Project Repository** | `Batch19_TeamAPEXFOUR_StudentResultAnalyzer` |
-| **Team Members** | 1. **Daksh** (Lead Architect & Core Implementation)<br>2. **Shriman Nautiyal** (Algorithms, Grading Logic & Validation)<br>3. **Shivam Rawat** (Testing, Verification & Documentation) |
+| **Team Members** | 1. **Daksh** (Development & Coding)<br>2. **Shriman Nautiyal** (Presentation & Live Demo)<br>3.. **Shivam Rawat** (Testing, Verification & Documentation) |
 
 ---
 
