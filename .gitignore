@@ -1,0 +1,16 @@
+# Compiled Object and Binary Files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and IDE Files
+*.dSYM/
+*.vscode/
+*.idea/
+.DS_Store
+
+# Temporary and Scratch Files
+*.tmp
+temp_test_input.txt
+test_input.txt
